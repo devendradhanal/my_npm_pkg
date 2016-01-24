@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devendradhanal/my_npm_pkg.git"
+  },
   "author": "Devendra Dhanal <devendradhanal@gmail.com> (http://devendradhanal.github.io/)",
   "license": "ISC",
   "dependencies": {
