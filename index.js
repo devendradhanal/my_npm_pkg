@@ -1,5 +1,5 @@
 var colors = require('colors');
-exports.printMsg =  function(color){
+exports.printMsg =  function(color, msg){
 	if(!color) color = 'red';
-	console.log('This is a message from demo package.'[color]);
+	console.log(msg[color]);
 }
